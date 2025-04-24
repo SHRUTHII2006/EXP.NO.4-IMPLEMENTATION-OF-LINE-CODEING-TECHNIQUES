@@ -58,7 +58,14 @@ Repeat steps 4–6 for all the available line coding techniques.
 
 ## TABLE
 
+![WhatsApp Image 2025-04-24 at 11 41 43 (3)](https://github.com/user-attachments/assets/392354aa-4f94-4e55-b016-799b1334abf4)
+
+
 ## OUTPUT GRAPHS
+
+
+![LINE CODING 1](https://github.com/user-attachments/assets/3a707c02-f911-4ec2-9431-a960286250f0)
+
 
 ## RESULT 
 
